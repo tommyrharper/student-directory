@@ -4,7 +4,7 @@ The student directory script allows you to manage the list of students erolled a
 
 # How to use #
 
-'''shell
+```shell
 ruby directory.rb
-'''
+```
 
